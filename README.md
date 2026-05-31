@@ -172,4 +172,4 @@ python -m streamlit run app.py
 
 ## 專案定位
 
-本專案不是單純聊天機器人，而是一個以 retrieval reliability 為核心的 RAG prototype。重點在於整合分散的系所資訊、建立可檢索知識庫、降低資料不足時的幻覺回答，並讓使用者能追溯回答依據。
+本專案是一個以 retrieval reliability 為核心的 RAG prototype。重點在於整合分散的系所資訊、建立可檢索知識庫、降低資料不足時的幻覺回答，並讓使用者能追溯回答依據。
